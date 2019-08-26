@@ -7,7 +7,8 @@ import java.util.List;
 import java.util.Scanner;
 public class FirstQ {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // This is a scanner class
+		Scanner sc = new Scanner(System.in);
         Third third = new Third();
         System.out.println("Enter the length");
         int n = sc.nextInt();
