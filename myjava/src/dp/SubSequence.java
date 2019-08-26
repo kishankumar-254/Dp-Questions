@@ -6,6 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 
 public class SubSequence {
+	// this is a test change
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter any two stirng");
